@@ -19,7 +19,7 @@ To create a program in Python that performs the following using the matplotlib a
 
 3. Display the figure and save it in a file called ‘pums.png’
 
-   # Explaination
+# Explaination
 
 1. Initially we have imported the required libraries.
 
