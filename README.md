@@ -16,7 +16,8 @@ To create a program in Python that performs the following using the matplotlib a
 
      2.4 Lower Right Subplot - Scatter plot of TAXP (property taxes) vs. VALP (property value). Make sure to convert TAXP into the appropriate numeric value, using the lower bound of the 
          interval (e.g., 2 -> $1, 16 -> $700, …). Use WGTP as the size of each marker, ‘o’ as the marker type, and MRGP (first mortgage payment) as the color value. Add a colorbar. 
-         Display the figure and save it in a file called ‘pums.png’
+
+3. Display the figure and save it in a file called ‘pums.png’
 
    # Explaination
 
